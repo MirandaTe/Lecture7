@@ -1,0 +1,21 @@
+@keyframes circle {
+	from {
+	width: 150px;
+	height: 150px;
+	background-color: white;
+    border-radius: 50%;
+    margin-top: 300px;
+    margin-left: 0px;
+	}
+	to {
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+	border-radius: 50%;
+    box-shadow: 0 0 15px 15px yellow;
+    margin-top: 100px;
+    margin-left: 1000px;
+	}
+}
+
+	
